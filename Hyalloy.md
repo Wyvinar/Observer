@@ -1,0 +1,3 @@
+A material created by in the heart of a dying [[Observer Stars]] star. It is theorized that the supernova following the the death of an [[Observer Stars]] star may also create Hyalloy, scattering it across the universe.
+
+Hyalloy as an element is reasonably soft and malleable, and easily cut by tools made of itself. It is also known to be unreactive with other elements, possibly as part of it's undefinable atomic makeup. 
