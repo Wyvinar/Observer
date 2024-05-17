@@ -1,1 +1,0 @@
-Due to the subjective nature of a [[Conscious observer]]'s view of various [[Quantum Runes]], it is common that 

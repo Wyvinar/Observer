@@ -1,0 +1,3 @@
+Due to the subjective nature of a [[Conscious observer]]'s view of various [[Quantum Runes]], it is common that when viewing half of full [[Quantum Runes]] or viewing an Asymmetrical rune from a different angle, a [[Conscious observer]] could gain the Sickness of Angle.
+
+The effects of sickness range from simple nausea to more abstract symptoms such as a paranoia regarding being watched, or specific effects brought on by the configurations and ingredients present in certain [[Quantum Runes]].

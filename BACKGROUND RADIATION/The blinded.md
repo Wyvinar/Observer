@@ -1,0 +1,1 @@
+A theory regarding why [[Paired Runes]] function despite the death of the [[Conscious observer]], stating that it may be possible for aspects of the [[Absence]] to still be present in the universe following the death of a [[Conscious observer]], with those aspects remaining local to the area in which the [[Conscious observer]] passed.

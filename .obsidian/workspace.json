@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Runes.md",
+                "file": "BACKGROUND RADIATION/Quantum Runes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Runes.md",
+                "file": "BACKGROUND RADIATION/Quantum Runes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Runes.md",
+                "file": "BACKGROUND RADIATION/Quantum Runes.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Runes.md",
+                "file": "BACKGROUND RADIATION/Quantum Runes.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inscriber.md",
+                "file": "BACKGROUND RADIATION/Inscriber.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyalloy.md",
+                "file": "BACKGROUND RADIATION/Hyalloy.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quantum Runes.md",
+                "file": "BACKGROUND RADIATION/Quantum Runes.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paired Runes.md",
+                "file": "BACKGROUND RADIATION/Paired Runes.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paired Runes.md",
+                "file": "BACKGROUND RADIATION/Paired Runes.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,14 +133,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNWRITTEN/Sickness of Angle.md",
+                "file": "BACKGROUND RADIATION/The blinded.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45ee3902e97136e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNWRITTEN/-Headless-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17d61ae2f094181c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNWRITTEN/-Headless-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a410b6c181a1988e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNWRITTEN/-Headless-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9465a8204aff6d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNWRITTEN/-Headless-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8aba8faa375b14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNWRITTEN/-Headless-.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59ceb05505aaaf5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNWRITTEN/-Headless-.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -206,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNWRITTEN/Sickness of Angle.md",
+                "file": "UNWRITTEN/-Headless-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNWRITTEN/Sickness of Angle.md",
+                "file": "UNWRITTEN/-Headless-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNWRITTEN/Sickness of Angle.md"
+                "file": "UNWRITTEN/-Headless-.md"
               }
             }
           }
@@ -267,17 +339,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d377bf8165f45e1a",
+  "active": "59ceb05505aaaf5e",
   "lastOpenFiles": [
-    "Paired Runes.md",
-    "UNWRITTEN/Sickness of Angle.md",
-    "UNWRITTEN/The blinded.md",
-    "Quantum Runes.md",
-    "Absence.md",
-    "Conscious observer.md",
-    "Inscriber.md",
-    "Observer Stars.md",
-    "Hyalloy.md",
+    "UNWRITTEN/BoltWire.md",
+    "UNWRITTEN/-Headless-.md",
+    "UNWRITTEN/Aramic Salash.md",
+    "UNWRITTEN/Glass Magnifier.md",
+    "UNWRITTEN/Palay Armor.md",
+    "UNWRITTEN/Three-Hare.md",
+    "BACKGROUND RADIATION/The blinded.md",
+    "BACKGROUND RADIATION",
+    "BACKGROUND RADIATION/Sickness of Angle.md",
+    "BACKGROUND RADIATION/Paired Runes.md",
+    "BACKGROUND RADIATION/Quantum Runes.md",
+    "BACKGROUND RADIATION/Absence.md",
+    "BACKGROUND RADIATION/Conscious observer.md",
+    "BACKGROUND RADIATION/Inscriber.md",
+    "BACKGROUND RADIATION/Observer Stars.md",
+    "BACKGROUND RADIATION/Hyalloy.md",
     "UNWRITTEN",
     "CONCEPTS",
     "README.md",
