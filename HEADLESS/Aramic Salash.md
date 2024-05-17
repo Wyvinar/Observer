@@ -1,0 +1,3 @@
+A courtier of [[Emperor Dalmzan]] who sought to overthrow the Emperor following an attempt on his life, attempting to channel the preexisting resentment found for the emperor in the lower classes of the capital. His plans were found out, however, and he was slated for execution. Having fled the castle, the emperor sent his personal guard of [[Palay Soldiers]] to hunt down the man.
+
+Upon being found by a mercenary, he had a set of [[Quantum Runes]] placed around his neck that would remove his head upon him being witnessed by a [[Conscious observer]]. Therefore, he fled the capital.
