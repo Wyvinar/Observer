@@ -1,0 +1,1 @@
+A large, rifle-like mechanism that can be loaded and wound to hold considerable pressure, with the release of the mechanism allowing for a blade to be shot from the body. This blade is attached to a wire, with both the target for the blade and the weight of the rifle allowing for two points to crossed via traversing the wire.
