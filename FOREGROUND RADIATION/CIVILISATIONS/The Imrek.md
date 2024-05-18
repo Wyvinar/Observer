@@ -1,0 +1,1 @@
+A civilisation that discovered [[Quantum Runes]] and decided to blind themselves in order to use them.
