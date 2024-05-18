@@ -1,0 +1,1 @@
+A tool similar to a "swiss army knife" that contains a considerable array of finely made glass, specifically designed to observe objects from varying distances.

@@ -1,0 +1,1 @@
+A group of soldiers from the city states of Palay, known for being trained in the complex and violent wilderness surrounding the island. It is common for the various militaries of Palay to hire themselves out as supplements to various nation's armies.

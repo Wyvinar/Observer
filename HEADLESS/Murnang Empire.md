@@ -1,0 +1,1 @@
+A country that has swallowed a significant amount of the free floating half of [[Panry]], deploying a significant naval force to surround the gained landmass, a tactic unseen through most of [[Panry]]'s history due to lack of water depth.

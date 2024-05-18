@@ -1,0 +1,1 @@
+The emperor of the [[Murnang Empire]] who, having survived a significant attempt upon his life, now hides himself within a suit of armor to protect and hide his body. His is known to be disliked by the masses, as well as suffering an unruly court, specifically slating one [[Aramic Salash]] for execution.
