@@ -1,1 +1,1 @@
-A civilisation that discovered [[Quantum Runes]] and decided to blind themselves in order to use them more effectively, due to this they never discovered runes that require observation to work.
+A civilization that discovered [[Quantum Runes]] and decided to blind themselves in order to use them more effectively, due to this they never discovered runes that require observation to work.

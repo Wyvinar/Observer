@@ -1,0 +1,1 @@
+The large bison-like creatures that roam the [[Exiled Coalition]], known for being roughly 14 feet tall and proportionately similar. They are known for their significant strength and weight, with the addition of bone like plates placed beneath their thick fur making them significantly difficult to kill even considering the apparatus of the coalition.

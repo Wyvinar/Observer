@@ -1,0 +1,3 @@
+A type of plant that grows within the boarders of the [[Exiled Coalition]] known for its durability and inadequacy as a food source. It is known to be the main source of sustenance for the [[Tankores]] of the region and is one of the only plants that actually grows across the planes of the [[Exiled Coalition]]. 
+
+Coalition Bank takes the form of long yellow-green grass reeds often grown to wind in on one another for projection against the strong winds of the area. It is well known for its hardiness and durability, with "chewing on the bank" becoming an [[Exiled Coalition]] by-phrase for a fruitless or foolish task. 

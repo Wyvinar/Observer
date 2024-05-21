@@ -1,0 +1,1 @@
+The island in which the giant [[Panry Chain]] embeds itself in [[Panry]], known for being a frosted land entirely lacking in usable water and food. However, after the [[Exiled Coalition]] attempted to research the [[Panry Chain]], food and water began to be shipped into the island, with a railway set up to transfer people to the base of the [[Panry Chain]].
